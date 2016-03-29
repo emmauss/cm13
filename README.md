@@ -5,7 +5,7 @@ cm: repo init -u git://github.com/CyanogenMod/android.git -b cm-13.0
 repo sync
 
 Device,kernel,vendor,...
-1- use device from here https://github.com/NormandyEGY/andro...nokia_normandy put in /device/nokia/normandy
+1- use device from here https://github.com/thinhx2/cm13 put in /device/nokia/normandy
 2- use vendor from here https://github.com/NormandyEGY/andro...nokia_normandy put in /vendor/nokia/normandy
 3- use extra from here https://github.com/NormandyEGY/vendor_extra put in /vendor/normandy
 4- use kernel from here https://github.com/Ahmed-Hady/androi...nokia_normandy put in /kernel/nokia/normandy
